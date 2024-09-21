@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc14ec19-cba5-4634-ad07-0005555aad41" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitLabMergeRequestsSettings">{}</component>
+  <component name="GithubPullRequestsUISettings">{}</component>
+  <component name="KubernetesApiProvider">{}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fouvBUzdvDtJy13jbN8ZkyxJYs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Employee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HiInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoginRegisterScreen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainGUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Passenger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SSaGUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Trip (١).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Trip.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserInterface (١).executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserInterface (٢).executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.uuu.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nonok/IdeaProjects/Our Project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Employee" />
+      <module name="Prog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUI" />
+      <module name="Prog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Prog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trip (١)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trip" />
+      <module name="Prog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Trip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trip" />
+      <module name="Prog" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.Trip" />
+        <item itemvalue="Application.Trip (١)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.158" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.158" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc14ec19-cba5-4634-ad07-0005555aad41" name="Changes" comment="" />
+      <created>1714479982274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714479982274</updated>
+      <workItem from="1714479983326" duration="5920000" />
+      <workItem from="1714510406640" duration="1332000" />
+      <workItem from="1714588709945" duration="917000" />
+      <workItem from="1714685647089" duration="15123000" />
+      <workItem from="1714702721196" duration="76000" />
+      <workItem from="1714738282756" duration="9167000" />
+      <workItem from="1714751955845" duration="8321000" />
+      <workItem from="1714823311246" duration="33000" />
+      <workItem from="1714901096451" duration="315000" />
+      <workItem from="1714941721961" duration="3710000" />
+      <workItem from="1715002782384" duration="11000" />
+      <workItem from="1715022921681" duration="165000" />
+      <workItem from="1715104745387" duration="6848000" />
+      <workItem from="1715167902050" duration="25765000" />
+      <workItem from="1715290927074" duration="9810000" />
+      <workItem from="1715355440916" duration="1891000" />
+      <workItem from="1715357373100" duration="2681000" />
+      <workItem from="1715360083589" duration="32341000" />
+      <workItem from="1715441631343" duration="1762000" />
+      <workItem from="1715443467104" duration="15352000" />
+      <workItem from="1715513167588" duration="34353000" />
+      <workItem from="1715558593877" duration="2777000" />
+      <workItem from="1715579815200" duration="241000" />
+      <workItem from="1715581869150" duration="14643000" />
+      <workItem from="1715596868719" duration="4605000" />
+      <workItem from="1715709087595" duration="147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>202</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
